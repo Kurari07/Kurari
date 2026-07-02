@@ -1,6 +1,7 @@
 # Hi there, I'm Kurari! 👋
 
-Linux環境を中心に、低レイヤ（CPUアーキテクチャやデジタル回路）から高レイヤ（C#/.NETによるソフトウェア開発）まで幅広く興味を持って勉強・開発しています。
+Linux環境を中心に，低レイヤから高レイヤまで幅広く興味を持って勉強・開発しています．現在はクラウド技術に興味がありC#を勉強している最中です．
+#石川秀大研究室所属![](https://onct.oita-ct.ac.jp/seigyo/ishikawa_hp/)
 
 ## 🛠️ Tech Stack & Tools
 
