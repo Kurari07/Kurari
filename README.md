@@ -1,7 +1,7 @@
 # Hi there, I'm Kurari! 👋
 
 Linux環境を中心に，低レイヤから高レイヤまで幅広く興味を持って勉強・開発しています．現在はクラウド技術に興味がありC#を勉強している最中です．
-石川秀大研究室所属(https://onct.oita-ct.ac.jp/seigyo/ishikawa_hp/)で人物追跡における進化的特徴量選択アルゴリズムの開発を行っています．
+石川秀大研究室所属(https://onct.oita-ct.ac.jp/seigyo/ishikawa_hp/) で人物追跡における進化的特徴量選択アルゴリズムの開発を行っています．
 
 ## 🛠️ Tech Stack & Tools
 
