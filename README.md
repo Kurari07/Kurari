@@ -11,8 +11,7 @@ Linux環境を中心に、低レイヤ（CPUアーキテクチャやデジタル
 ![](https://img.shields.io/badge/Verilog-FAA21F?style=for-the-badge&logo=intel&logoColor=black)
 ![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### OS & Environments
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/RISC--V-F15A24?style=for-the-badge&logo=riscv&logoColor=white)
